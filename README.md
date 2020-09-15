@@ -1,5 +1,5 @@
 # Mirror of Obsidian
-<img width="262" height="208" align="left" style="float: right; margin: 0 10px 0 0;" alt="Latest version of the port from 2011 running MAP09 of Doom 404." src="Obsidian.png">
+<img width="262" height="208" align="right" style="float: right; margin: 0 10px 0 0;" alt="Latest version of the port from 2011 running MAP09 of Doom 404." src="Obsidian.png">
 
 [Obsidian](https://www.chocolate-doom.org/wiki/index.php/Obsidian) is a source port and a fork of Chocolate Doom by tm512 that aims to be a "thin server" multiplayer port. It puts in new features that don't deviate too far from classic Doom, however, it is still in early development and it will likely stay like that for the saleable future as the last time the port was updated was in 2011.
 
